@@ -1,0 +1,6 @@
+[submodule "AuthenticationAPI"]
+	path = AuthenticationAPI
+	url = https://github.com/UtkarshA-rgb/AuthenticationAPI.git
+[submodule "customer-hub-service"]
+	path = customer-hub-service
+	url = https://github.com/YOUR_USERNAME/customer-hub-service.git
